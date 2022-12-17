@@ -6,7 +6,7 @@ subtitle: What I cannot create, I do not understand. --- Richard Feynman
  
 profile:
   align: right
-  image: prof_pic.jpg
+  image: xingzhi.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>xingzhi06zhou@gmail.com, xingzhi.zhou@connect.ust.hk</p>
